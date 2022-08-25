@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.cb24ed6d.css",
-    "main.js": "/static/js/main.c54766d9.js",
+    "main.js": "/static/js/main.46050004.js",
     "static/js/787.822fa584.chunk.js": "/static/js/787.822fa584.chunk.js",
-    "static/media/bison-logo.png": "/static/media/bison-logo.c3cf95f657d0aee98b7b.png",
-    "static/media/bison-text.png": "/static/media/bison-text.03a37a4070cf12af8f50.png",
-    "static/media/fitness-zone-text.png": "/static/media/fitness-zone-text.6074ca77d523d46af7eb.png",
+    "static/media/bison-logo.png": "/static/media/bison-logo.e6d05e805203425dba49.png",
+    "static/media/bison-text.png": "/static/media/bison-text.60755be514a52c1bb241.png",
+    "static/media/fitness-zone-text.png": "/static/media/fitness-zone-text.d2aaa19c6db2edfce5b7.png",
     "index.html": "/index.html",
     "main.cb24ed6d.css.map": "/static/css/main.cb24ed6d.css.map",
-    "main.c54766d9.js.map": "/static/js/main.c54766d9.js.map",
+    "main.46050004.js.map": "/static/js/main.46050004.js.map",
     "787.822fa584.chunk.js.map": "/static/js/787.822fa584.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb24ed6d.css",
-    "static/js/main.c54766d9.js"
+    "static/js/main.46050004.js"
   ]
 }
