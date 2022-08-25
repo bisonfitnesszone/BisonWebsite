@@ -1,5 +1,5 @@
 {
-  "short_name": "React App",
+  "short_name": "Bison Fitness Zone",
   "name": "Create React App Sample",
   "icons": [
     {
@@ -8,14 +8,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo-192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x240"
     },
     {
-      "src": "logo512.png",
+      "src": "logo-512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x640"
     }
   ],
   "start_url": ".",
