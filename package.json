@@ -1,5 +1,6 @@
 {
   "name": "bisonfitnesszone.github.io",
+  "homepage": "https://bisonfitnesszone.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

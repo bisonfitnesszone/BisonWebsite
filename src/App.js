@@ -11,7 +11,7 @@ function App() {
                 <img src={bisonText} className="App-logo" alt="bisonText"/>
                 <img src={fitZoneText} className="App-logo" alt="logo"/>
                 <p>
-                    Bison Fitness Zone Website !!
+                    Website !!
                 </p>
                 <p>
                     COMING SOON !!
